@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856970808948",
+    "firebase_url": "https://frequency-ca547.firebaseio.com",
+    "project_id": "frequency-ca547",
+    "storage_bucket": "frequency-ca547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856970808948:android:2ae5c582de2f1715",
+        "android_client_info": {
+          "package_name": "com.app.chhatrasal.frequesncy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856970808948-3mpbib35gclhvtsvf9i1u3kegfa2mvcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chhatrasal.frequesncy",
+            "certificate_hash": "4fc0b2d7a17d8d130c8e1960ce2a5227ddfff74d"
+          }
+        },
+        {
+          "client_id": "856970808948-ge68pj287odthq7aoeiqs60ogq3qjqjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBueUizM5m58Fmw7Qgg0g7aY5EgLRQIf8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856970808948-ge68pj287odthq7aoeiqs60ogq3qjqjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

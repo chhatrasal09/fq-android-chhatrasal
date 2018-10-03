@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Task7</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="name">Name</string>
+    <string name="currency_price">Currency Price</string>
+    <string name="currency_symbol">Currency Symbol</string>
+    <string name="currency_name">Currency Name</string>
+    <string name="price_usd">Price USD</string>
+    <string name="price_inr">Price INR</string>
+    <string name="percentage_change_24hr">Percentage change 24Hr</string>
+    <string name="currency_rank">Currency Rank</string>
+    <string name="baseURL">https://api.coinmarketcap.com/</string>
+    <string name="symbol">symbol</string>
+    <string name="rank">rank</string>
+    <string name="usd">usd</string>
+    <string name="inr">inr</string>
+    <string name="percentage24H">percentage24H</string>
+</resources>
