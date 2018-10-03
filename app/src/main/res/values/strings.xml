@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Task7</string>
+    <string name="app_name">Frequency Test</string>
 
     <string name="username">Username</string>
     <string name="password">Password</string>
@@ -21,4 +21,6 @@
     <string name="usd">usd</string>
     <string name="inr">inr</string>
     <string name="percentage24H">percentage24H</string>
+    <string name="home">Home</string>
+    <string name="info">Info</string>
 </resources>
