@@ -41,9 +41,10 @@ class LoginActivity : AppCompatActivity() {
                             if (task.isSuccessful) {
                                 loginUserToHomePage()
                             } else {
-                                Toast.makeText(this@LoginActivity, "Login Failed.", Toast.LENGTH_LONG).show()
+                                Toast.makeText(this@LoginActivity, "Login Failed." + task.exception!!.message, Toast.LENGTH_LONG).show()
                             }
                         }.addOnFailureListener(this@LoginActivity) { exception ->
+                            Toast.makeText(this@LoginActivity, "${exception.message}", Toast.LENGTH_LONG).show()
                             exception.printStackTrace()
                         }
             } else {
